@@ -1,4 +1,5 @@
-## Hi there 👋
+##  😜
+##  Hello, GitHub, i'm new here. Let's try to creat new big huge JOB!
 
 <!--
 **zhul0018/zhul0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
